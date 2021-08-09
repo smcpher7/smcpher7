@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sanesha McPherson
 - 👀 I’m interested in Softwware Development
 - 🌱 I’m currently learning Software Development
--💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me by email at smcpher7@gmail.com
 
 <!---
